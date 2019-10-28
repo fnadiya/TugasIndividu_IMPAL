@@ -1,2 +1,2 @@
 # TugasIndividu_IMPAL
-Tugas Individu IMPAL_1301174701
+alternative source code=> https://repl.it/@NadiyaFitriana1/SmallRuddyAssignments
